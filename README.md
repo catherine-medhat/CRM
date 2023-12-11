@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a Flask-based web application designed for user authentication, customer management, and secure data storage. It utilizes various encryption techniques, including Fernet and RSA, to ensure the confidentiality and integrity of sensitive information.
+This project is a Flask-based CRM. It utilizes various encryption techniques, including Fernet and RSA, to ensure the confidentiality and integrity of sensitive information.
 
 ## Table of Contents
 
@@ -11,10 +11,8 @@ This project is a Flask-based web application designed for user authentication, 
 3. [Configuration](#configuration)
 4. [Usage](#usage)
 5. [Testing](#testing)
-6. [Folder Structure](#folder-structure)
-7. [Technologies Used](#technologies-used)
-8. [Contributing](#contributing)
-9. [License](#license)
+6. [Technologies Used](#technologies-used)
+7. [License](#license)
 
 ## Prerequisites
 
