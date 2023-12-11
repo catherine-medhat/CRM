@@ -72,37 +72,6 @@ To run tests, use the following command:
 python -m unittest discover tests
 ```
 
-## Folder Structure
-
-```plaintext
-your-repo/
-│
-├── app/
-│   ├── static/
-│   │   └── (static files: CSS, JS, etc.)
-│   ├── templates/
-│   │   └── (HTML templates)
-│   ├── __init__.py
-│   ├── app.py
-│   ├── models.py
-│   └── (other modules)
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_app.py
-│   └── (other test modules)
-│
-├── .env
-├── .gitignore
-├── cert.pem
-├── key.pem
-├── private_key.pem
-├── public_key.pem
-├── README.md
-├── requirements.txt
-└── (other files and directories)
-```
-
 ## Technologies Used
 
 - Flask
